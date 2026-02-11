@@ -1,5 +1,5 @@
 const CONFIG = {
-  BASE_URL: 'http://192.168.1.18:8000/api',
+  BASE_URL: 'https://medi-link-backend-alpha.vercel.app/api',
 };
 
 export default CONFIG;

@@ -1,5 +1,5 @@
 const CONFIG = {
-  BACKEND_API_URL: "http://localhost:8000/api",
+  BACKEND_API_URL: "https://medi-link-backend-alpha.vercel.app/api",
 };
 
 export default CONFIG;
